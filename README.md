@@ -1,8 +1,10 @@
 # download-vue-camuso
-verifico 
-php -v
-composer -v
-git -v
+verifico  
+php -v </br>
+composer -v </br>
+git -v </br>
+npm -v </br> 
+node -v </br>
 
 elenco comandi
 npm install -g @vue/cli --loglevel verbose
