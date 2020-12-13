@@ -30,3 +30,10 @@ yarn serve</br>
 
 vue create primo_progetto</br>
 vue ui</br>
+
+npm run:serve</br>
+yarn serve</br>
+vue ui</br>
+
+http://memory.dataram.com/products-and-services/software/ramdisk
+free version -> problemi con npn e dipendenze.
