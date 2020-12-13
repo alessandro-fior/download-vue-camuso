@@ -27,3 +27,6 @@ vue upgrade -h<br>
 vue info -h<br>
 
 yarn serve</br>
+
+vue create primo_progetto</br>
+vue ui</br>
