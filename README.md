@@ -10,16 +10,16 @@ npm -v </br>
 node -v </br>
 
 # installare vue
-https://vuejs.org/v2/guide/installation.html</br>
+
 npm install -g @vue/cli --loglevel verbose</br>
 npm install vue</br>
 
 #dev vue
-
-git clone https://github.com/vuejs/vue.git node_modules/vue
-cd node_modules/vue
-npm install
-npm run build
+https://vuejs.org/v2/guide/installation.html</br>
+git clone https://github.com/vuejs/vue.git node_modules/vue</br>
+cd node_modules/vue</br>
+npm install</br>
+npm run build</br>
 
 #a questo punto da riga di comando riesco : (mia esperienza problemi su linux con permessi, esperienza de Rosa meglio dos anzichè power shell per differenza nomi file)
 
