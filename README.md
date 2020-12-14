@@ -37,3 +37,6 @@ vue ui</br>
 
 http://memory.dataram.com/products-and-services/software/ramdisk
 free version -> problemi con npn e dipendenze.
+
+npm build</br>
+npm deploy</br>
