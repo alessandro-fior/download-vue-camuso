@@ -23,7 +23,11 @@ npm run build</br>
 
 #a questo punto da riga di comando riesco : (mia esperienza problemi su linux con permessi, esperienza de Rosa meglio dos anzichè power shell per differenza nomi file)
 
+<li>
 vue create -h/<br>
+vue create app2/<br>
+</li>
+
 vue add -h/<br>
 vue invoke -h/<br>
 vue inspect -h<br>
