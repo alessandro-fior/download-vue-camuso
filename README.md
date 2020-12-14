@@ -14,6 +14,11 @@ node -v </br>
 npm install -g @vue/cli --loglevel verbose</br>
 npm install vue</br>
 
+
+#ide
+phpstorm</br>
+code .</br>
+
 #dev vue
 https://vuejs.org/v2/guide/installation.html</br>
 git clone https://github.com/vuejs/vue.git node_modules/vue</br>
